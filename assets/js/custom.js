@@ -21,7 +21,7 @@ $(document).ready(function(e) {
 
 	$("#defaultCountdown").countdown({ 
 		//Time set = Year, Month,Date; Starts from 0-jan month
-    	until: new Date(2018, 9, 06, 10)
+    	until: new Date(2021, 1, 23, 9)
     }); 
 
 
